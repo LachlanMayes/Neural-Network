@@ -39,7 +39,7 @@ The script follows the fundamental principles of training a neural network:
 
 1.  Clone the repository:
     ```bash
-    git clone [<your-repository-url>](https://github.com/LachlanMayes/Neural-Network)
+    git clone (https://github.com/LachlanMayes/Neural-Network)
     ```
 
 2.  Install the required libraries using pip:
